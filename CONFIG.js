@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Hayır",
   titleModar: "Harika!",
   descriptionModar:
-    "Tamamen özgür iradenle bu tercihi yaptın. Sonuçlarından sorumlu değilim Dila!</br> Seni seviyorum <3",
+    "Tamamen özgür iradenle bu tercihi yaptın. </br> Sonuçlarından sorumlu değilim Dila!</br> Seni seviyorum <3",
 };
