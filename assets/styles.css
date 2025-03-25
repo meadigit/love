@@ -43,7 +43,7 @@ canvas {
   overflow: hidden;
   flex-direction: column;
   flex: 1;
-  background-image: linear-gradient(to right top, #5998C5, #419D78);
+  background-image: linear-gradient(to right top, #ff9a8b, #ffc3a0);
   animation: changeColor 4s ease-in-out;
   -webkit-animation: changeColor 4s ease-in-out;
   -moz-animation: changeColor 4s ease-in-out;
