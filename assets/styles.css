@@ -53,10 +53,10 @@ canvas {
 
 @keyframes changeColor {
   from {
-    background-image: linear-gradient(to left, #5998C5, #419D78);
+    background-image: linear-gradient(to left, #ff9a8b, #ffc3a0);
   }
   to {
-    background-image: linear-gradient(to top, #5998C5, #419D78);
+    background-image: linear-gradient(to top, #ff9a8b, #ffc3a0);
   }
 }
 
