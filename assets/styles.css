@@ -17,7 +17,7 @@
 html {
   font-size: 62.5%;
   line-height: 1.6rem;
-  font-family: "Pacifico", cursive;
+  font-family: "Roboto", sans-serif;  /* Değiştirilen font */
   height: 100vh;
 }
 
